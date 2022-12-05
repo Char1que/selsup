@@ -64,7 +64,7 @@ class ParamEditor extends React.Component<Props, State> {
   };
 
   public alertFunction(): void {
-    alert('Модель была получена в консоли!')
+    alert('Результат выведен в консоль')
   }
 
   render() {
